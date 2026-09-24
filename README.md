@@ -8,7 +8,7 @@
 Costa Rica 🇨🇷
 
 [![GitHub](https://img.shields.io/badge/GitHub-GeinerFA-181717?style=for-the-badge&logo=github)](https://github.com/GeinerFA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geiner%20Fallas-0A66C2?style=for-the-badge&logo=linkedin)]([TU_URL_PERSONALIZADA_DE_LINKEDIN](https://www.linkedin.com/in/geiner-fallas-araya-145357174)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geiner%20Fallas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geiner-fallas-araya-145357174)
 
 </div>
 
