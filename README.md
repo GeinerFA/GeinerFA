@@ -5,10 +5,10 @@
 ### Bachiller en Ingeniería Informática  
 **Software Developer · IT Support · Full Stack Development**
 
-Costa Rica 🇨🇷
+📍 Costa Rica
 
 [![GitHub](https://img.shields.io/badge/GitHub-GeinerFA-181717?style=for-the-badge&logo=github)](https://github.com/GeinerFA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geiner%20Fallas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geiner-fallas-araya-145357174)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Geiner%20Fallas-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/geiner-fallas-araya-145357174)
 
 </div>
 
@@ -126,7 +126,15 @@ La solución integra un sitio web público con un panel administrativo para la g
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel" />
 </p>
 
-[Ver repositorio →](https://github.com/GeinerFA/FP_PV_INTERCULTURAS)
+<p>
+  <a href="https://pvinterculturas.org">
+    <img src="https://img.shields.io/badge/Ver%20proyecto-Online-0A66C2?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/GeinerFA/FP_PV_INTERCULTURAS">
+    <img src="https://img.shields.io/badge/Ver%20repositorio-GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
