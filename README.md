@@ -18,10 +18,32 @@ También desarrollo soluciones web y aplicaciones Full Stack, aplicando conocimi
 
 ## Tecnologías y herramientas
 
-**Desarrollo:** React, Next.js, TypeScript, JavaScript  
-**Bases de datos:** MongoDB, MongoDB Atlas, Mongoose  
-**Herramientas:** Git, GitHub, Visual Studio Code  
-**TI:** Soporte técnico, hardware, troubleshooting, gestión de incidencias y soporte a usuarios
+**Lenguajes:**  
+JavaScript, TypeScript, HTML5, CSS3, SQL
+
+**Frontend:**  
+React, Next.js
+
+**Backend y desarrollo web:**  
+Node.js, ASP.NET
+
+**Bases de datos:**  
+MongoDB, MongoDB Atlas, Mongoose, Oracle Database
+
+**Control de versiones y desarrollo:**  
+Git, GitHub, Visual Studio Code
+
+**Despliegue y servicios:**  
+Vercel
+
+**Herramientas de bases de datos:**  
+MongoDB Compass
+
+**Sistemas y soporte TI:**  
+Windows, Linux, soporte técnico, troubleshooting, configuración y mantenimiento de hardware, gestión de usuarios, accesos y permisos, firma digital
+
+**Redes:**  
+Fundamentos de redes, TCP/IP, routing, switching y redes inalámbricas
 
 ## Proyecto destacado
 
