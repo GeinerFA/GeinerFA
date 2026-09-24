@@ -65,7 +65,6 @@ Paralelamente, desarrollo soluciones web y aplicaciones **Full Stack**, aplicand
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Mongoose-000000?style=for-the-badge&logo=mongoose&logoColor=880000" />
   <img src="https://img.shields.io/badge/Oracle%20Database-000000?style=for-the-badge&logo=oracle&logoColor=F80000" />
 </p>
